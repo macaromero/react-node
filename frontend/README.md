@@ -10,7 +10,7 @@ Para poder simular una compra, hay que iniciar sesión, para esto se puede crear
 
 ## GIT
 
-https://github.com/macaromero/react-desafios.git
+https://github.com/macaromero/react-node.git
 
 ### Autoría
 
